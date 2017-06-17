@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\20d45389b18a4ac66f6d2b632526d378daa1f6bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21af020a757c87e01774247e9691d3edc3041d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\e363cdaefc294b96bedc0fc730e01386146ecd17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc2ce43be613fb7678719f481bcf766bec2a9414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\b1e804f508ade3d46d546e6cd06ad5535e37cb43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f91ccbb72e1ef78dcc047fa0bc2789de2784c682\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\e8d02970cfef924c1d1a8a133569b640468ea235\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10a18d31a53eaefa340fada1e67673acf0457853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\80122fa2f1fc5f814618efc3212409aedee98f13\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b16157d53c02d78892d60a06ff61ebf77b7e10d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\f0448f22b73bab17ea6f3b1ab684fd9e5bdff9a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c18b3d2bc0326e682c62665dc50d409a25ff272e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\1fa3331644be63f5d1f4617f719c80ec65c7a756\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_483ff598590db8f616fd630f74a74bbf280c6171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\248801f208cee0c09c024b5f097bedfaf949e13d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b075cbd451e22098cf35e5cbcca9934ff232772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\78064918a279ad36f5e21ba69bdc7c173b5e6b5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d5a0535d3a6567949d2e4320f1ca7f19da58027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="656753f560b8a6e095e7e68f0835db943c636748">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e51d3a26190a60fa2867c35257e530c207b2592\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f0569a042d134a38956e4295bf5b27745ca2dde6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\94e07a5cecc9a508d97f34a2daa752e0afbb6ef7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74effe1aa441858ce454ae62ea4d67f08607b0bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_02ddf21b61171d892702d38e946f3574dd22b5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_81c5a583aedc49b4ae4568ef2f4db87aeb5098bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\2eba167127ea5ec0d430c9d7fa04e48c108d4d02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98f8b168905afef6c31b6fa0f41145e9d9cdce15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.gradle\caches\modules-2\files-2.1\de.u-mass\lastfm-java\0.1.2\b1d6f0040f614b09bebfde1cf346ab4a6ffff81d\lastfm-java-0.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1d6f0040f614b09bebfde1cf346ab4a6ffff81d">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\lastfm-java-0.1.2_c43674c49593289b453712554114db0306911a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\a6de9d818f63f36a849571122e74ce0cf2e728a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47c349c435fd57225553f06fae2e2c167cf29311\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sheyl\.android\build-cache\61a551d146a5720db9212b3b387b46731c777fed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\sheyl\AndroidStudioProjects\WallpaperMusic-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f331e23af14dcf38ef61e6a3eb3177044e6a8eba\classes.dex" />
+    </item>
+
+</items>
