@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="conf_menu">Configurações</string>
+    <string name="sair_menu">Sair</string>
+    <string name="hello_word">Hello Word!!!</string>
+    <string name="title_activity_settings">SecondActivity</string>
+    <string name="categoria">Categoria</string>
+    <string name="categTempo">Trocar a cada</string>
+    <string-array name="MudarWallpaper">
+        <item>Album</item>
+        <item>Artista</item>
+    </string-array>
+    <string-array name="MudarWallpaperTempo">
+        <item>10min</item>
+        <item>30min</item>
+        <item>60min</item>
+    </string-array>
+
+</resources>
